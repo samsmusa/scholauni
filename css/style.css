@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Poppins&display=swap');
+
+
+* {
+    font-family: 'Poppins', sans-serif !important
+  }
+
+.custom-container {
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: dimgray;
+}
+.title-text {
+    
+    width: 100%; 
+    border-bottom: 1px solid rgb(136, 124, 241); 
+    line-height: 0.5em;
+    margin: 10px 0 0px 0; 
+ } 
+ 
+.title-text span { 
+     /* background:rgb(136, 124, 241); 
+     padding:0 10px;  */
+     color:rgb(2, 75, 139)
+ }
+
+.card-text-date {
+    color: dimgrey;
+    font-size: smaller;
+    padding: 0;
+    margin: 0%;
+    font-style: italic;
+}
+
+.card-title {
+    color: #046daf;
+    
+}
+
+
+/* .card:focus {
+    border: none !important;
+ } */
+
+ .card {
+    border: none !important;
+ }
