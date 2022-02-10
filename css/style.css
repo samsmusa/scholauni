@@ -47,3 +47,8 @@ a {
  .card {
     border: none !important;
  }
+
+ .img-thumbnail {
+     height: 48px !important;
+     width: 48px !important;
+ }
