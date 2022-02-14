@@ -53,3 +53,38 @@ a {
      width: 48px !important;
  }
 
+.main-heading {
+    /* color: rgb(1, 136, 136);
+     */
+}
+
+ .article p, .article h2, .article h3 {
+    padding: 0px 0 20px 0;
+    line-height: 1.6;
+} 
+
+.article a {
+    color: rgb(22, 84, 255);
+}
+
+.article h2, .article h3{
+    color: rgb(48, 152, 161);
+}
+.nav-item:hover {
+    /* background: #5b5d5e; */
+    border-bottom: 1px solid aliceblue; 
+}
+
+.footer, .navvbar, .nav-link {
+    background-color: rgb(83, 143, 143) !important;
+    color: aliceblue !important;
+}
+.search-btn {
+    background-color:rgb(30, 68, 70) ;
+    color: aliceblue;
+}
+
+.search-btn:hover {
+    background-color: aliceblue;
+    color: rgb(83, 143, 143);
+}
